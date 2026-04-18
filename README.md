@@ -3,8 +3,7 @@
 
 ---
 
-**🛠️ Tech:** Java (17/21), Spring Boot 3.x, JPA, Hibernate, PostgreSQL, AZ-900, GH-300, Git, Maven, Postman, Microservices, System Design.<br>
+**🛠️ Tech:** Java (17/21), Spring Boot 3.x, JPA, Hibernate, PostgreSQL, Git, Maven, Postman, VS Code, STS, Microservices, System Design, Concurrency.<br>
+**Certificates and AI tools**: GH-300, AZ-900, GitHub Copilot, Claude AI, Claude Code.<br>
 **🏆 Awards:** Accenture ACE Award (2024) & Best Team Award (2023).<br>
 **📫 Connect:** [LinkedIn](https://linkedin.com/in/rohit-bane) | [Email](mailto:rohitbane5@gmail.com) | Mumbai, India
-
----
